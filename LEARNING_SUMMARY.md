@@ -14,7 +14,8 @@ relevant.
 The AI part of my program comes primarily from this course, although I also learnt some additional skills from a YouTube tutorial on integrating custom data into PyTorch and a Python notebook on the Kaggle webpage using the same
 dataset I elected to use for a similar process. Although I love learning new things, I was conscious that so close to the deadline, learning something entirely new would not be the most shrewd of ideas. However, I was really inspired by the 
 sophisticated modelling and analysis that is possible using embeddings, RNNs and TF-IDF representations of words, so I ended up committing to this whole-heartedly anyway! In the process, I developed my understanding of sophisticated machine-learning models extensively, learnt
-the basic functionality of PyTorch and furthered my knowledge of data preprocessing, which is vital for all machine-learning operations. 
+the basic functionality of PyTorch and furthered my knowledge of data preprocessing, which is vital for all machine-learning operations. Unfortunately, the enormity of the task 
+of data preprocessing meant I actually didn't proceed any further with this project, though I'll be sure to work on it more in future, when I have the time!
 
 Although my progress on this project was ultimately impeded by the sheer volume of data I had to use and my lack of experience with handling data-sets of this size, I still attained a wealth of knowledge and experience in Python development 
 and machine learning, and I'm excited to learn more as the MSA program continues!
